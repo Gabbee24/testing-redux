@@ -22,6 +22,9 @@ const Login = () => {
         }}>
             LOGOUT
         </button>
+        <p>
+A confident computer Science graduate with self-taught tech skills such as web and mobile development using React and React-Native library.
+</p>
     </div>
   )
 }
